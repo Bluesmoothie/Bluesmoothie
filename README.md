@@ -54,7 +54,7 @@
       <td><a href="https://github.com/Bluesmoothie/libasm"><b>libasm</b></a></td>
       <td>Réimplémentation partielle de la libc en assembleur x86-64</td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=asm" width="36" height="36" alt="Assembly"/>
+        <img src="https://img.shields.io/badge/ASM-000000?style=flat&logo=assembly&logoColor=white"  width="36" height="36" alt="ASM" />
         <img src="https://skillicons.dev/icons?i=linux" width="36" height="36" alt="Linux"/>
       </td>
     </tr>
