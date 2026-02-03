@@ -18,33 +18,29 @@
       <th>Projet</th>
       <th>Description</th>
       <th>Technos principales</th>
-      <th>Statut</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Bluesmoothie/libasm"><b>libft</b></a></td>
+      <td><a href="https://github.com/Bluesmoothie/libasm"><b>libasm</b></a></td>
       <td>Réécriture partielle de la libc en assembleur</td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=asm" width="32" height="32" alt="C"/>
       </td>
-      <td>🚧 En cours</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Bluesmoothie/ft_ls"><b>libft</b></a></td>
+      <td><a href="https://github.com/Bluesmoothie/ft_ls"><b>ft_ls</b></a></td>
       <td>Lister les éléments du système de fichier</td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=c" width="32" height="32" alt="C"/>
       </td>
-      <td>🚧 En cours</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Bluesmoothie/Webserv"><b>libft</b></a></td>
+      <td><a href="https://github.com/Bluesmoothie/Webserv"><b>Webserv</b></a></td>
       <td>Un serveur web léger from scratch</td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=cpp" width="32" height="32" alt="C"/>
       </td>
-      <td>✅ Terminé</td>
     </tr>
   </tbody>
 </table>
