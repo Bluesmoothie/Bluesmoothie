@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bluesmoothie&label=Profil+vu&color=00C4B4&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/42%20Level-10-blue?style=for-the-badge&logo=42&logoColor=white" alt="42 Level" />
 </p>
 
 <h2 align="center">Projets marquants</h2>
