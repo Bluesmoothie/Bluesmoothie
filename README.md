@@ -5,7 +5,6 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bluesmoothie&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bluesmoothie&theme=dracula&hide_border=true" alt="Contribution Streak" width="48%" />
 </div>
 
