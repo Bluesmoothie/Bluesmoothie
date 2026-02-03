@@ -12,6 +12,7 @@
 
   <h3>Langages & moteurs</h3>
   <img src="https://skillicons.dev/icons?i=c,cpp,lua,md,godot&perline=6" alt="Languages & engines" />
+  <img src="https://img.shields.io/badge/ASM-000000?style=flat&logo=assembly&logoColor=white"  width="36" height="36" alt="ASM" />
 
   <h3>Outils généraux</h3>
   <img src="https://skillicons.dev/icons?i=bash,docker,git,github,githubactions,vscode&perline=7" alt="Tools" />
