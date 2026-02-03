@@ -4,15 +4,24 @@
   <b>Étudiant développeur à 42 Lyon</b> • Passionné de C/C++, systèmes bas niveau & embarqués
 </p>
 
+<h2 align="center">Compétences & environnements</h2>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bluesmoothie&theme=dracula&hide_border=true" alt="Contribution Streak" width="48%" />
+  <h3>Plateformes & OS</h3>
+  <img src="https://skillicons.dev/icons?i=linux,arch,debian,ubuntu,bsd,arduino,raspberrypi&perline=7" alt="OS & hardware" />
+
+  <h3>Langages & moteurs</h3>
+  <img src="https://skillicons.dev/icons?i=c,cpp,lua,md,godot&perline=6" alt="Languages & engines" />
+
+  <h3>Outils généraux</h3>
+  <img src="https://skillicons.dev/icons?i=bash,docker,git,github,githubactions,vscode&perline=7" alt="Tools" />
+
+  <h3>Web & Backend</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,npm,pnpm,yarn,prisma,nextjs,react,tailwind,vite,nginx,redis&perline=8" alt="Web stack" />
+
+  <h3>Monitoring & infra</h3>
+  <img src="https://skillicons.dev/icons?i=elasticsearch,grafana,prometheus&perline=6" alt="Observability" />
 </div>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/42%20Level-10-blue?style=for-the-badge&logo=42&logoColor=white" alt="42 Level" />
-</p>
 
 <h2 align="center">Projets marquants</h2>
 
@@ -90,23 +99,9 @@
   </tbody>
 </table>
 
-<h2 align="center">Compétences & environnements</h2>
-
 <div align="center">
-  <h3>Plateformes & OS</h3>
-  <img src="https://skillicons.dev/icons?i=linux,arch,debian,ubuntu,bsd,arduino,raspberrypi&perline=7" alt="OS & hardware" />
-
-  <h3>Langages & moteurs</h3>
-  <img src="https://skillicons.dev/icons?i=c,cpp,lua,md,godot&perline=6" alt="Languages & engines" />
-
-  <h3>Outils généraux</h3>
-  <img src="https://skillicons.dev/icons?i=bash,docker,git,github,githubactions,vscode&perline=7" alt="Tools" />
-
-  <h3>Web & Backend</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,npm,pnpm,yarn,prisma,nextjs,react,tailwind,vite,nginx,redis&perline=8" alt="Web stack" />
-
-  <h3>Monitoring & infra</h3>
-  <img src="https://skillicons.dev/icons?i=elasticsearch,grafana,prometheus&perline=6" alt="Observability" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bluesmoothie&theme=dracula&hide_border=true" alt="Contribution Streak" width="48%" />
+  <img src="https://img.shields.io/badge/42%20Level-10-blue?style=for-the-badge&logo=42&logoColor=white" alt="42 Level" />
 </div>
 
 <br>
