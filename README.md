@@ -117,3 +117,9 @@
 </p>
 
 <br>
+
+<p align="center">
+  <a href="mailto:pro@yvesgille.fr">
+    <img src="https://img.shields.io/badge/Me%20contacter%20par%20email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
