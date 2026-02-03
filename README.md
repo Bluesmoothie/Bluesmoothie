@@ -31,7 +31,6 @@
       <td>Serveur HTTP léger implémenté from scratch</td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=cpp" width="36" height="36" alt="C++"/>
-        <img src="https://skillicons.dev/icons?i=linux" width="36" height="36" alt="Linux"/>
       </td>
     </tr>
     <tr>
@@ -69,6 +68,21 @@
     <tr>
       <td><a href="https://github.com/Bluesmoothie/ft_ls"><b>ft_ls</b></a></td>
       <td>Réimplémentation de la commande ls avec options principales</td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=c" width="36" height="36" alt="C"/>
+        <img src="https://skillicons.dev/icons?i=linux" width="36" height="36" alt="Linux"/>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Bluesmoothie/cub3d"><b>cub3D</b></a></td>
+      <td>Jeu 3D inspiré de Wolfenstein 3D avec raycasting</td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=cpp" width="36" height="36" alt="C++"/>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Bluesmoothie/ft_nm"><b>ft_nm</b></a></td>
+      <td>Affiche les symboles d’un fichier ELF</td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=c" width="36" height="36" alt="C"/>
         <img src="https://skillicons.dev/icons?i=linux" width="36" height="36" alt="Linux"/>
