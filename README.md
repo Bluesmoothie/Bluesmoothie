@@ -86,7 +86,7 @@
       <td><a href="https://github.com/Bluesmoothie/cub3d"><b>cub3D</b></a></td>
       <td>Jeu 3D inspiré de Wolfenstein 3D avec raycasting</td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=cpp" width="36" height="36" alt="C++"/>
+        <img src="https://skillicons.dev/icons?i=c" width="36" height="36" alt="C"/>
       </td>
     </tr>
     <tr>
