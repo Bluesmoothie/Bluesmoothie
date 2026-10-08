@@ -8,20 +8,20 @@
 
 <div align="center">
   <h3>Plateformes & OS</h3>
-  <img src="https://skillicons.dev/icons?i=linux,arch,debian,ubuntu,bsd,arduino,raspberrypi,kali,nix&perline=7" alt="OS & hardware" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,debian,ubuntu,bsd,arduino,raspberrypi,kali,nix&perline=10" alt="OS & hardware" />
 
   <h3>Langages & moteurs</h3>
-  <img src="https://skillicons.dev/icons?i=c,cpp,lua,md,godot,java&perline=6" alt="Languages & engines" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,lua,md,godot,java&perline=10" alt="Languages & engines" />
   <img src="https://img.shields.io/badge/ASM-000000?style=flat&logo=assembly&logoColor=white"  width="36" height="36" alt="ASM" />
 
   <h3>Outils généraux</h3>
-  <img src="https://skillicons.dev/icons?i=bash,docker,git,github,githubactions,vscode,gitlab,postman&perline=7" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=bash,docker,git,github,githubactions,vscode,gitlab,postman&perline=10" alt="Tools" />
 
   <h3>Web & Backend</h3>
-  <img src="https://skillicons.dev/icons?i=html,htmx,css,js,ts,nodejs,npm,pnpm,yarn,prisma,nextjs,react,tailwind,vite,nginx,redis,mysql,postgres,php,symfony,wordpress&perline=8" alt="Web stack" />
+  <img src="https://skillicons.dev/icons?i=html,htmx,css,js,ts,nodejs,npm,pnpm,yarn,prisma,nextjs,react,tailwind,vite,nginx,redis,mysql,postgres,php,symfony,wordpress&perline=10" alt="Web stack" />
 
   <h3>Monitoring & infra</h3>
-  <img src="https://skillicons.dev/icons?i=elasticsearch,grafana,prometheus,ansible&perline=6" alt="Observability" />
+  <img src="https://skillicons.dev/icons?i=elasticsearch,grafana,prometheus,ansible&perline=10" alt="Observability" />
 </div>
 
 <h2 align="center">Projets marquants</h2>
