@@ -102,7 +102,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bluesmoothie&theme=dracula&hide_border=true" alt="Contribution Streak" width="48%" />
-  <img src="https://img.shields.io/badge/42%20Level-11-blue?style=for-the-badge&logo=42&logoColor=white" alt="42 Level" />
+  <img src="https://img.shields.io/badge/42%20Level-14-blue?style=for-the-badge&logo=42&logoColor=white" alt="42 Level" />
 </div>
 
 <br>
